@@ -3,7 +3,7 @@
     src: url('../fonts/Roboto-Regular.eot');
     src: local('Roboto Regular'), local('Roboto-Regular'),
         url('../fonts/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Roboto-Regular.woff111111111111112') format('woff2'),
+        url('../fonts/Roboto-Regular.123') format('woff2'),
         url('../fonts/Roboto-Regular.woff') format('woff'),
         url('../fonts/Roboto-Regular.ttf') format('truetype'),
         url('../fonts/Roboto-Regular.svg#Roboto-Regular') format('svg');
