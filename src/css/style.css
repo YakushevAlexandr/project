@@ -1,0 +1,58 @@
+h1 {
+  color: yellow;
+  font-size: 70px;
+}
+
+h2 {
+  color: yellow;
+  display: block;
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  color: red;
+}
+
+h3 {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  color: red;
+}
+
+.block {
+  background-color: black;
+  width: 900px;
+}
+
+.block h3 {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  color: red;
+}
+
+.block_color {
+  background-color: #9a14e7;
+}
+
+.block_color .block_text {
+  background-color: green;
+  color: yellow;
+  width: 150px;
+  sheight: 75px;
+}
+
+.block_color h3 {
+  background-color: green;
+  color: yellow;
+}
+
+.block_color button {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(43, 255, 0);
+  color: rgb(255, 0, 157);
+}
